@@ -1,0 +1,32 @@
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Node modules and dependencies (if using build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+
+# Shopify CLI cache (if any)
+.cache/
+.shopify/
+
+# Environment or config files (optional)
+.env
+.env.*.local
+
+# VSCode or other editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary or backup files
+*.swp
+*.swo
+*.bak
+
+# Git temporary merge/conflict files
+*.orig
